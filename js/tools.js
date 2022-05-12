@@ -1,3 +1,5 @@
+// 青云诀2手游： account：1738298510	password: waq201866
+
 // 根据传递的选择器查找对应的元素
 // 参数：
 //		selector: 选择器，字符串，可以取 #id 、.className、tagName
